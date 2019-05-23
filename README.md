@@ -2,4 +2,7 @@
 
 
 你好
+switch(asdfa){
+    alert("sdf");
+}
 sfsadf
