@@ -4,5 +4,7 @@
 你好
 switch(asdfa){
     alert("sdf");
+    dsfdf
 }
 sfsadf
+
